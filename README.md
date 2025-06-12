@@ -6,6 +6,20 @@ to complex challenges while adhering to best practices and core engineering
 principles.
 
 ## 🔥 Featured Projects  
+- HSBC is a multinational banking and financial services holding company
+- Key contributor to the development of a React component library, 
+implementing components aligned with internal Figma designs, resulting in a 
+30% increase in development speed
+- Led the Insurance UI team, overseeing design and implementation of robust, 
+responsive web applications
+- Architect and design complex user interfaces for web and mobile applications
+ Provide strategic technical leadership for scalable frontend applications
+- Built dynamic and responsive components utilizing CSS-in-JS libraries
+- Designed sophisticated UI components with a focus on performance and 
+usability
+- Authored comprehensive unit tests to ensure code reliability
+- Delivered features adhering to high coding standards using tools for code 
+qualit
 - **Insurance** – [[Live Demo](https://insurance-dev.hsbc.com.hk/evhis-ga)](#) 
 
 ## 💡 Technical Skills  
