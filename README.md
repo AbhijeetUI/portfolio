@@ -30,7 +30,11 @@ qualit
 ## 📖 Blog & Insights  
 Check out my latest articles on frontend trends and best practices on linkedin
 - Javascript: [[Javascript - Closure](https://www.linkedin.com/in/abhijeet-shete-82743474/](https://www.linkedin.com/pulse/closure-detail-its-use-cases-abhijeet-shete-lkahf/?trackingId=6CRSAcx7QlAosvL%2FcLvtFA%3D%3D))](#)
- 
+
+## Open Source Contributions  
+✔ Contributor to [Awesome React Repo](#) – Improved documentation and added new hooks examples.  
+✔ Developed [React Starter Template](#) with optimized configurations.  
+
 ## 📬 Contact Me  
 - LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/abhijeet-shete-82743474/)](#)  
 - GitHub: [[GitHub Profile](https://github.com/AbhijeetUI/portfolio)](#)  
