@@ -16,9 +16,10 @@ principles.
 
 ## 📖 Blog & Insights  
 Check out my latest articles on frontend trends and best practices on linkedin
-https://www.linkedin.com/pulse/closure-detail-its-use-cases-abhijeet-shete-lkahf/?trackingId=6CRSAcx7QlAosvL%2FcLvtFA%3D%3D
-https://www.linkedin.com/posts/abhijeet-shete-82743474_different-between-arrayslice-and-arraysplice-activity-7305261600121188352--jtC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA-5wp8BQZhc69eBC7D50mkV3hqi1AJOT_I
 
+https://www.linkedin.com/posts/abhijeet-shete-82743474_different-between-arrayslice-and-arraysplice-activity-7305261600121188352--jtC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA-5wp8BQZhc69eBC7D50mkV3hqi1AJOT_I
+- Javascript: [[Javascript - Closure]([https://www.linkedin.com/in/abhijeet-shete-82743474/](https://www.linkedin.com/pulse/closure-detail-its-use-cases-abhijeet-shete-lkahf/?trackingId=6CRSAcx7QlAosvL%2FcLvtFA%3D%3D))](#)
+- Javascript: [[Javascript - Array Methods]([- Javascript: [[Javascript - Closure]([https://www.linkedin.com/in/abhijeet-shete-82743474/](https://www.linkedin.com/pulse/closure-detail-its-use-cases-abhijeet-shete-lkahf/?trackingId=6CRSAcx7QlAosvL%2FcLvtFA%3D%3D))](#)](#) 
 ## 📬 Contact Me  
 - LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/abhijeet-shete-82743474/)](#)  
 - GitHub: [[GitHub Profile](https://github.com/AbhijeetUI/portfolio)](#)  
