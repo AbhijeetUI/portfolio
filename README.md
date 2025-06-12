@@ -6,8 +6,7 @@ to complex challenges while adhering to best practices and core engineering
 principles.
 
 ## 🔥 Featured Projects  
-- **Insurance** – [[Live Demo](https://insurance-dev.hsbc.com.hk/evhis-ga)](#) | [GitHub Repo](#)  
-- **Project Name** – [Live Demo](#) | [GitHub Repo](#)  
+- **Insurance** – [[Live Demo](https://insurance-dev.hsbc.com.hk/evhis-ga)](#) 
 
 ## 💡 Technical Skills  
 - ReactJS | Redux | TypeScript | Javascript | Next.js | CSS-in-JS | Styled Components 
