@@ -1,5 +1,5 @@
-# Abhijeet - Senior IT Developer
-🚀  With 8 years of dedicated experience, I'm a Senior Frontend Developer 
+# Abhijeet Shete - Senior Software Engineer
+🚀  With 8+ years of dedicated experience, I'm a Senior Frontend Developer 
 specializing in React and JavaScript. I'm passionate about architecting and 
 building high-quality, scalable products, consistently delivering elegant solutions 
 to complex challenges while adhering to best practices and core engineering 
